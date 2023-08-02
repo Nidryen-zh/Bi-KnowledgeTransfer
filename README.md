@@ -1,1 +1,1 @@
-# Bi-KnowledgeTransfer
+# Bidirectional Knowledge Transfer
